@@ -1,0 +1,8 @@
+2023-07-05 10:30:15 INFO: Application started
+2023-07-05 10:30:17 ERROR[500]: Internal server error - Unable to connect to the database
+2023-07-05 10:30:18 WARNING: Invalid input detected - Missing required field 'email'
+2023-07-05 10:30:20 INFO: Processing completed successfully
+2023-07-05 10:30:22 ERROR[404]: Page not found - /invalid-route
+2023-07-05 10:30:25 INFO: Application stopped
+2023-07-05 10:30:27 ERROR[503]: Service unavailable - Third-party API returned an error
+2023-07-05 10:30:27 ERROR[418]: I'm a teapot!
