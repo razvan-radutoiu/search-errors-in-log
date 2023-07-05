@@ -5,7 +5,7 @@ log_file="$1"
 if [ $# -eq 0 ]; then
   echo "Error: No log file specified."
   echo "Usage:"
-  echo -e "./log_search.sh /path/to/log/file.log"$"\n""bash test.sh path/to/log/file.log"
+  echo -e "./log_search.sh /path/to/log/file.log"$"\n""bash log_search.sh path/to/log/file.log"
   exit 1
 fi
 
